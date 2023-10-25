@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.square {
+  min-width: 10vh;
+  min-height: 10vh;
+  max-width: 10vh;
+  max-height: 10vh;
+}
+.board-row {
+  min-height: 10vh;
+  max-height: 10vh;
+}
